@@ -1,0 +1,2 @@
+lightbeacon.js
+==============
